@@ -2,13 +2,22 @@
 
 This repository contains all tasks completed during the CodSoft Machine Learning Internship.
 
-## Tasks
+## Completed Tasks
 
-### Task 1: Movie Genre Classification ✅
-Predict movie genres using NLP and Machine Learning.
+### Task 1: Movie Genre Classification
+
+* Predicted movie genres using NLP and Machine Learning
+* Used TF-IDF Vectorization
+* Compared Logistic Regression, Naive Bayes, and SVM
+* Best Accuracy: 57.99%
 
 ### Task 2: Customer Churn Prediction
-In Progress
+
+* Predicted customer churn using banking customer data
+* Performed data preprocessing and feature engineering
+* Compared Logistic Regression, Random Forest, and Gradient Boosting
+* Best Accuracy: 86.75%
 
 ### Task 3: Handwritten Text Generation
-Pending
+
+* Coming Soon
